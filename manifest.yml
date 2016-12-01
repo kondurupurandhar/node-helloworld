@@ -1,5 +1,5 @@
 ---
 applications:
 - name:    hello-node
-  host:    hello-node1231111
+  host:    hello-node99
   memory:  128M
